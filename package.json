@@ -1,5 +1,5 @@
 {
-  "name": "ansi-to-react",
+  "name": "smile-ansi-to-react",
   "version": "6.0.10",
   "description": "ANSI to React Elements",
   "main": "lib/index.js",
@@ -10,7 +10,9 @@
     "test": "jest",
     "semantic-release": "semantic-release"
   },
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "repository": "https://github.com/nteract/ansi-to-react",
   "keywords": [
     "ansi",
